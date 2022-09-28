@@ -20,15 +20,16 @@ body {
 }
 
 #container {
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
     gap: 10px;
 }
 
-#main {
-    margin: 0 auto 0 auto;
+main {
+    margin: 0;
     background-color: var(--white);
     width: 300px;
     display: flex;
@@ -43,15 +44,18 @@ img {
     border-radius: 0.8rem;
 }
 
-.head {
+h1 {
     font-weight: 700;
     font-size: 1.3rem;
     margin-bottom: 0;
+    text-align: center;
+    color: var(--darkBlue)
 }
 
 .text {
     text-align: center;
-    color: var(--darkBlue);
+    color: var(--grayishBlue);
+    font-weight: 400;
 }
 
 .attribution {
