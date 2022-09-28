@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](./screenshots/desktopscreenshot.png)
-![](./screenshots/mobilescreenshot.png)
+![](./screenshots/mobilescreenshot.jpg)
 
 ### Links
 
@@ -34,5 +34,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Aldrin Sulit](https://github.com/aljersulit)
+- GitHub Profile - [Aldrin Sulit](https://github.com/aljersulit)
 - Frontend Mentor - [@AljerEfficient12](https://www.frontendmentor.io/profile/AljerEfficient12)
