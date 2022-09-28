@@ -28,7 +28,7 @@ body {
     gap: 10px;
 }
 
-main {
+article {
     margin: 0;
     background-color: var(--white);
     width: 300px;
